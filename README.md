@@ -1,6 +1,6 @@
 # Hello!! These are the projects I would like to showcase!
 
-- [**Visualizing neuralnets as crumpled paper.ipynb**](https://colab.research.google.com/drive/1Tz8R754z2-UjHl0zyJUn05-v17d0g5bY?usp=sharing) Did you know thinking of neural networks as crumpling up pieces of paper to fit data is a surprisingly good mental model? Technically all neuralnets are doing is taking a hyperplane and applying a series of non-linear transformations to it until it fits the shape of whatever point cloud you have...which in practice kinda looks like crumpling and folding a piece of paper until it fits the data! I try to get that point across with this notebook.
+- [**Visualizing neuralnets as crumpled paper.ipynb**](https://colab.research.google.com/drive/1Tz8R754z2-UjHl0zyJUn05-v17d0g5bY?usp=sharing) An education visualization I made during my time teaching at MIT Lincoln Labs! Shows how neural networks form these surfaces in high dimensional spaces to fit to the data. Different architectures have different influences on the 'shapes' and 'textures' of the surfaces; I found it helpful for being an intuition beyond a mathematical understanding. 
 
 ![image](https://github.com/user-attachments/assets/ec36cf60-eee5-496f-a62a-1d3d09a73420)
 
@@ -12,7 +12,7 @@
 
 ![image](https://github.com/user-attachments/assets/c4c0719e-db5b-4840-a465-19d442cbd102)
 
-- [**Visualizing how normalizing affects gradients.ipynb**](https://colab.research.google.com/drive/1Hff-cJT5HGbZzdFp6Nq7ILp7NJsjMM1s) I never properly understood why model convergence improves with better normalized data. So I made a notebook showing how the shapes of the gradient surface varies with different normaization methods!
+- [**Visualizing how normalizing affects gradients.ipynb**](https://colab.research.google.com/drive/1Hff-cJT5HGbZzdFp6Nq7ILp7NJsjMM1s) A visualization showing the impact of different normalization methods on model convergence! I found it helpful for being an intuition on why and how normalization impacted gradients.
 
 ![image](https://github.com/user-attachments/assets/118d81e0-2ef9-41ac-aaf6-35a512b69a62)
 
